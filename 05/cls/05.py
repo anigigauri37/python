@@ -15,3 +15,4 @@ for i in range(10):
     print(sum)
     sum = sum + 1
 
+#range - დიაპაზონი  ეს ფუნქცია ქმნის რიცხვთა კოლექციას
