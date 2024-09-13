@@ -101,5 +101,8 @@ for i in range(count):
     numbers.append(num)
     print(numbers)
 
-
 #13
+
+for i in range(10):
+    print(str(i + 1) + "ani")
+
